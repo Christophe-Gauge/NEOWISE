@@ -13,7 +13,7 @@ Find the rise and set time of this comet for your location.
 This code was initially created by [Comet C2020 F3 NEOWISE in the Morning (and eventually, the evening)
 ](https://shallowsky.com/blog/science/astro/comet-neowise.html), you can find the original source code [here](https://github.com/akkana/scripts/blob/master/comet.py).
 
-This interactive Python Notebook allows anyone to get the rise and set times, as well as the azimuth, to determine when teh comet will be visible. Set the parameters below and run the iPython notebook.
+This interactive Python Notebook allows anyone to get the rise and set times, as well as the azimuth, to determine when the comet will be visible. Set the parameters below and run the iPython notebook.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Christophe-Gauge/NEOWISE/master?filepath=comet.ipynb)
 
