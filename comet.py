@@ -17,7 +17,7 @@ import argparse
 
 import sys, os
 
-load = Loader('~/.cache/skyfield')
+load = Loader('./skyfield')
 with load.open(mpc.COMET_URL) as f:
     comets = mpc.load_comets_dataframe(f)
 
