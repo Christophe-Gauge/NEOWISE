@@ -17,4 +17,3 @@ This interactive Python Notebook allows anyone to get the rise and set times, as
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Christophe-Gauge/NEOWISE/master?filepath=comet.ipynb)
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Christophe-Gauge/NEOWISE/blob/master/comet.ipynb)
